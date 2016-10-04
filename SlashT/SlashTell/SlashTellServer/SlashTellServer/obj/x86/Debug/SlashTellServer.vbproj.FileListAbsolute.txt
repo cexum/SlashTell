@@ -1,0 +1,9 @@
+C:\Projects\SlashTellServer\SlashTellServer\bin\Debug\SlashTellServer.exe
+C:\Projects\SlashTellServer\SlashTellServer\bin\Debug\SlashTellServer.pdb
+C:\Projects\SlashTellServer\SlashTellServer\bin\Debug\SlashTellServer.xml
+C:\Projects\SlashTellServer\SlashTellServer\obj\x86\Debug\SlashTellServer.frmSlashTellServer.resources
+C:\Projects\SlashTellServer\SlashTellServer\obj\x86\Debug\SlashTellServer.Resources.resources
+C:\Projects\SlashTellServer\SlashTellServer\obj\x86\Debug\SlashTellServer.vbproj.GenerateResource.Cache
+C:\Projects\SlashTellServer\SlashTellServer\obj\x86\Debug\SlashTellServer.exe
+C:\Projects\SlashTellServer\SlashTellServer\obj\x86\Debug\SlashTellServer.xml
+C:\Projects\SlashTellServer\SlashTellServer\obj\x86\Debug\SlashTellServer.pdb
